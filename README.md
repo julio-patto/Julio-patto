@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**julio-patto/Julio-patto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Matheus Alves Ferreira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de jogar diversos tipos de jogos(preferencia para Battle Royale)
+Tenho 14 anos
+Quero ser programador 
+Quero trabalhar desenvolvendo sites e jogos
+
+
+
+Faço aula de progamação na SuperGEEKS
+Estudo em São Caetano
+Estou a 3 anos na SuperGEEKS
+
+
+Html,JavaScript,CSS,Python,Lua,C#,Bootstrap
+
+
