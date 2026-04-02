@@ -15,7 +15,6 @@ Quero trabalhar desenvolvendo sites e jogos
 
 Faço aula de progamação na SuperGEEKS
 
-Estudo em São Caetano
 
 Estou a 3 anos na SuperGEEKS
 
