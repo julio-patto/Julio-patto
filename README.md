@@ -20,7 +20,7 @@ Estudo em São Caetano
 Estou a 3 anos na SuperGEEKS
 
 
-Html,JavaScript,CSS,Python,Lua,C#,Bootstrap
+Html,JavaScript,CSS,Python,Lua,C#,Bootstrap,Git,GitHub
 
 
 <div style="display: inline_block"><br>
