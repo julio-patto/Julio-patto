@@ -15,7 +15,6 @@ Matheus Alves Ferreira
 
 Gosto de jogar diversos tipos de jogos(preferencia para Battle Royale)
 
-Tenho 14 anos
 
 Quero ser programador 
 
